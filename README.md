@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mont22
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter framework
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me montaserhelmy@gmail.com
 
 <!---
